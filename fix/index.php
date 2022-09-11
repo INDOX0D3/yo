@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://urania.icu/assets/css/shared/iconly.css">
     <link rel="stylesheet" href="https://urania.icu/assets/css/pages/fontawesome.css">
     <link rel="stylesheet" href="https://urania.icu/assets/css/pages/datatables.css">
-    <link rel="stylesheet" https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
 </head>
 
@@ -59,7 +59,7 @@
                     </svg>
                 </div>
                 <div class="sidebar-toggler  x">
-                    <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-alarm bi-middle"></i></a>
+                    <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-x bi-middle"></i></a>
                 </div>
             </div>
         </div>
@@ -71,7 +71,7 @@
                 <li class="sidebar-title">Menu</li>
 
                 <li class="sidebar-item active">
-                    <a href="#" class='sidebar-link'>
+                    <a href="https://urania.icu" class='sidebar-link'>
                         <i class="bi bi-grid-fill"></i>
                         <span>Dashboard</span>
                     </a>
@@ -189,7 +189,7 @@
                 confirmButtonText: 'Yes!'
             }).then((result) => {
                 if (result.value) {
-                    window.location.href = "login.php";
+                    window.location.href = "login.html";
                 }
             });
         }
