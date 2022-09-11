@@ -189,7 +189,7 @@
                 confirmButtonText: 'Yes!'
             }).then((result) => {
                 if (result.value) {
-                    window.location.href = "login.html";
+                    window.location.href = "login.php";
                 }
             });
         }
