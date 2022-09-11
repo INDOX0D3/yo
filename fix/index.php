@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="https://urania.icu/assets/css/shared/iconly.css">
     <link rel="stylesheet" href="https://urania.icu/assets/css/pages/fontawesome.css">
     <link rel="stylesheet" href="https://urania.icu/assets/css/pages/datatables.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="/npm/toastify-js@1.12.0/src/toastify.css">
 
 </head>
 
