@@ -71,7 +71,7 @@
                 <li class="sidebar-title">Menu</li>
 
                 <li class="sidebar-item active">
-                    <a href="https://urania.icu" class='sidebar-link'>
+                    <a href="#" class='sidebar-link'>
                         <i class="bi bi-grid-fill"></i>
                         <span>Dashboard</span>
                     </a>
