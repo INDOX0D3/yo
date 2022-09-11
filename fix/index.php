@@ -59,7 +59,7 @@
                     </svg>
                 </div>
                 <div class="sidebar-toggler  x">
-                    <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-x bi-middle"></i></a>
+                    <a href="#" class="sidebar-hide d-xl-none d-block"><i class="bi bi-alarm bi-middle"></i></a>
                 </div>
             </div>
         </div>
